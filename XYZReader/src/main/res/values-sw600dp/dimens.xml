@@ -1,0 +1,6 @@
+<resources>
+    <!-- detail -->
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.3</item>
+
+    <dimen name="app_bar_layout_height">224dp</dimen>
+</resources>
